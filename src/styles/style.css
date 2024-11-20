@@ -1,0 +1,12 @@
+p {
+    color: red;
+}
+body {
+    background: url(/documentation/PWPWall.png) no-repeat top center local;
+    background-size: 100% ;
+
+}
+main{
+    background-color: rgba(240, 240, 240, .5);
+
+}
