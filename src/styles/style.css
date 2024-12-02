@@ -1,16 +1,16 @@
 html{
     font-size: 48px;  font-family: 'Tangerine', serif;
     text-align: center;
-    width:500
-    background-color: #00539f;
+    width: auto;
+    background-color: #7fffd4;
 }
 body {
     font-family: 'Tangerine', serif;
-    font-size: 48px;
-    text-shadow: 4px 4px 4px #aaa
-    width: 600px;
-    margin: 0 auto;
-    padding: 0 20px 20px 20px;
+    font-size: 60px;
+    text-align: center;
+    margin: auto;
+    background-color: aquamarine;
+    padding: 90px 40px 40px 40px;
 }
 h1 {
     font-size: 24px;
@@ -22,5 +22,9 @@ h2{
 }
 p {
     color: black;
-    width: 300px;
+    text-align: center;
+}
+h3  {
+    font-size: 15px
+    text-align: center;
 }
