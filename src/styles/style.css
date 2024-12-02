@@ -1,9 +1,26 @@
-body {
-    background: url(/documentation/PWPWall.png) no-repeat top center local;
-    background-size: 100% ;
-
+html{
+    font-size: 48px;  font-family: 'Tangerine', serif;
+    text-align: center;
+    width:500
+    background-color: #00539f;
 }
-main{
-    background-color: #ffffff
-
+body {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+h1 {
+    font-size: 24px;
+    text-align: center;
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+}
+p {
+    color: black;
+    width: 300px;
 }
